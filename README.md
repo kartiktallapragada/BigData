@@ -1,5 +1,5 @@
-BigData
-=======
+Sqoop+Hive+MySQL
+================
 
 The project will demonstrate the following core concepts on using sqoop in CDH5
 1. Create table in mysql, import NYSE Data into MySQL
@@ -19,7 +19,7 @@ Oozie Script for import, data manipulation and export
 UI that reads information from the mysql output and reports the data.
 
 
-===============================================================================================
+===================================================================
 File Information
 
 The NYSE hadoop word document contains all the steps and commands and step by step guide to import and export the data.
